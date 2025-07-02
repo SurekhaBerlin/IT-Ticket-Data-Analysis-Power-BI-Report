@@ -25,24 +25,25 @@ Improve workflows and customer satisfaction
  
 
 Key Questions to Explore
-1.  Ticket Types & Tags
+**1.  Ticket Types & Tags**
 
-...What kinds of issues (bugs, requests, features) come up most often?
-...Which support teams or queues handle the most tickets?
-...How are different tags (like "Security", "Integration", or "Documentation") used?
-...Resolution Time & Priorities
+1. What kinds of issues (bugs, requests, features) come up most often?
+2. Which support teams or queues handle the most tickets?
+3. How are different tags (like "Security", "Integration", or "Documentation") used?
 
-...How long does it take to resolve tickets, on average?
-...Do higher-priority tickets get resolved faster?
-...Which types of tickets take the longest to close?
+**2.Resolution Time & Priorities
+**
+4. How long does it take to resolve tickets, on average?
+5. Do higher-priority tickets get resolved faster?
+6. Which types of tickets take the longest to close?
 
-2.  Locations & Volume
+**3.  Locations & Volume**
 
-...Which countries or regions submit the most tickets?
-...Are there certain locations that see more delays or specific issues?
+7. Which countries or regions submit the most tickets?
+8. Are there certain locations that see more delays or specific issues?
 
-3.  Process Improvement
+**4.  Process Improvement**
 
-...Can we group similar tickets to create automated replies or help articles?
-...Are the agent responses helpful and aligned with what the user asked?
-...Where can the support team save time or improve service quality?
+9. Can we group similar tickets to create automated replies or help articles?
+10. Are the agent responses helpful and aligned with what the user asked?
+11. Where can the support team save time or improve service quality?
