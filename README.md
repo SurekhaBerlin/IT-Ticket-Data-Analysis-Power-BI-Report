@@ -25,6 +25,7 @@ Improve workflows and customer satisfaction
  
 
 Key Questions to Explore
+
 **1.  Ticket Types & Tags**
 
 1. What kinds of issues (bugs, requests, features) come up most often?
