@@ -31,8 +31,8 @@ Key Questions to Explore
 2. Which support teams or queues handle the most tickets?
 3. How are different tags (like "Security", "Integration", or "Documentation") used?
 
-**2.Resolution Time & Priorities
-**
+**2.Resolution Time & Priorities**
+
 4. How long does it take to resolve tickets, on average?
 5. Do higher-priority tickets get resolved faster?
 6. Which types of tickets take the longest to close?
